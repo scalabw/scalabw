@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scalabw&label=Profile%20views&color=0e75b6&style=flat" alt="scalabw" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scalabw" alt="scalabw" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scalabw&theme=nord" alt="scalabw" /></a> </p>
 
 - ⚡ Fun fact **I love raccoons 🦝**
 
@@ -19,8 +19,8 @@
 
 <p></p>
 
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=scalabw&show_icons=true&locale=en&count_private=true&hide_border=true" alt="scalabw" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scalabw&show_icons=true&locale=en&layout=compact&hide_border=true" alt="scalabw" /></a> |
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=scalabw&show_icons=true&locale=en&count_private=true&hide_border=true&theme=nord" alt="scalabw" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scalabw&show_icons=true&locale=en&layout=compact&hide_border=true&theme=nord" alt="scalabw" /></a> |
 | ------------- | ------------- |
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scalabw&" alt="scalabw" /> </p> 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scalabw&theme=nord&theme=nord" alt="scalabw" /> </p> 
