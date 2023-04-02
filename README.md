@@ -29,7 +29,13 @@
 | <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=scalabw&show_icons=true&locale=en&count_private=true&hide_border=true&theme=nord" alt="scalabw" /></div> | <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scalabw&show_icons=true&locale=en&layout=compact&hide_border=true&theme=nord" alt="scalabw" /></div> |
 | ------------- | ------------- |
 
-<div align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scalabw&theme=nord&theme=nord&hide_border=true&" alt="scalabw"/></div>
+<div align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scalabw&theme=nord&hide_border=true&" alt="scalabw"/></div>
+
+&nbsp;
+
+<div align="center"> <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=scalabw&theme=nord&hide_border=true&radius=10" alt="activity graph"/></div>
+
+
 
 &nbsp;
 
