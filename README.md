@@ -33,7 +33,7 @@
 
 &nbsp;
 
-<div align="center"> <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=scalabw&theme=nord&hide_border=true&radius=10" alt="activity graph"/></div>
+<div align="center"> <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=scalabw&theme=nord&hide_border=true&radius=10" alt="activity graph"/></div>
 
 
 
