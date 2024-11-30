@@ -27,9 +27,9 @@
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=scalabw&count_private=true&show_icons=true&theme=nord&hide_border=true" alt="scalabw" height="192px" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scalabw&theme=nord&hide_border=true&" alt="scalabw"  height="192px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scalabw&langs_count=8&layout=compact&theme=nord&hide_border=true" alt="scalabw" height="192px" />
 </p>
-<div align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scalabw&langs_count=8&layout=compact&theme=nord&hide_border=true" alt="scalabw" height="192px" /> </div>
+<div align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scalabw&theme=nord&hide_border=true&" alt="scalabw" height="192px"/> </div>
 
 &nbsp;
 <!--- <div align="center"> <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=scalabw&theme=nord&hide_border=true&radius=10" alt="activity graph"/></div> --> 
