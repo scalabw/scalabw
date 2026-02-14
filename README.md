@@ -12,7 +12,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-scalabre.io-5E81AC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://scalabre.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-scalabre.io-5E81AC?style=for-the-badge&logo=firefox&logoColor=white)](https://scalabre.io)
 
 </div>
 
