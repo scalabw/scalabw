@@ -141,12 +141,26 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scalabw/scalabw/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/scalabw/scalabw/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/scalabw/scalabw/output/github-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=scalabw&count_private=true&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=scalabw&langs_count=8&layout=compact&theme=nord&hide_border=true" alt="Top Languages" height="180px" /> -->
+<img src="https://github-readme-stats.vercel.app/api?username=scalabw&count_private=true&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=scalabw&langs_count=8&layout=compact&theme=nord&hide_border=true" alt="Top Languages" height="180px" />
 
 <br/>
 
