@@ -136,7 +136,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy-tawny.vercel.app/?username=scalabw&theme=nord&no-frame=true&column=6&margin-w=10&rank=-C,-B,-?" alt="Trophies" />
+<img src="https://github-trophies.vercel.app/?username=scalabw&theme=nord&no-frame=true&column=6&margin-w=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" />
 </div>
 
 ---
