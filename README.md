@@ -121,7 +121,9 @@
 
 ## 💼 Experience
 
-🏢 **Full-Stack Developer** @ **Free** (Telecom) — Built web apps & an AI speech-to-text system using Whisper & Transformers
+🏢 **Staff Engineer** @ **Numspot** (Sovereign Cloud) — Built frontend analytics & error tracking, helped deploy the console on SecNumCloud, generated typed TypeScript SDKs from OpenAPI
+
+🏢 **Full-Stack Developer** @ **Free** (Telecom) — Maintained communication & assistance web apps and engineered an AI speech-to-text system turning customer audio into actionable insights
 
 🏢 **Full-Stack Developer** @ **Coorpacademy by Go1** — Developed web & mobile e-learning platform, managed AWS Lambda & Elasticsearch
 
